@@ -36,11 +36,3 @@ This is a simple C# project using .NET for a parking system. The program allows 
 - **Framework:** .NET Core
 - **Recommended IDE:** Visual Studio Code
 
-## License?
-
-**No Specific License! You Make the Rules! 🎉**
-
-This project is entirely open to everyone. Feel free to use, modify, share, and have fun with the code. :P
-
- 😄🚀
-
